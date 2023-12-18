@@ -4,12 +4,12 @@ Create a new account specifically for security purposes and email spam....
 
 ## Install Dependencies
 Run the Below command in the same directory as steamHoursQuery  
-```npm i```
+Run ```npm i```
 
 ## Setup .env file
 run the below command with your steam username steam password and path to chrome.exe ready  
 
-```npm run setup```
+Run ```npm run setup```
 
 example Chrome path  
 for windows  
