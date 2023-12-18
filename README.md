@@ -11,10 +11,10 @@ run the below command with your steam username steam password and path to chrome
 
 Run ```npm run setup```
 
-###example Chrome path  
-####for windows  
+### example Chrome path  
+#### for windows  
 C:\Program Files\Google\Chrome\Application\chrome.exe  
-####for linux  
+#### for linux  
 /usr/bin/google-chrome-stable
 
 ## Make a Query
