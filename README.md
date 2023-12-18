@@ -1,4 +1,4 @@
-![image](https://github.com/Ellozac/steamHoursQuery/assets/104737752/ee7db930-4c16-431c-bdc5-10ad20da096d)# Steam Hour Query
+# Steam Hour Query
 Do NOT use your actual Steam account username and password.  
 Create a new account specifically for security purposes and email spam....
 
