@@ -25,3 +25,6 @@ to find userid navigate to their profile and it can be seen as shown in the imag
 note: steam userid Differs from username  
 Run ```npm run query <steamuserid> <game>```
 
+
+one line
+```git clone https://github.com/ellozac/steamhoursquery && cd steamhoursquery && npm i && npm run setup```
