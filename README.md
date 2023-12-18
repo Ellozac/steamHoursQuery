@@ -20,7 +20,8 @@ C:\Program Files\Google\Chrome\Application\chrome.exe
 ## Make a Query
 Changing the below username arguement to the users id which you want to see their hours in the game arguement.  
 to find userid navigate to their profile and it can be seen as shown in the image (top left of your screen)
-![image](https://github.com/Ellozac/steamHoursQuery/assets/104737752/84ae19db-8039-4c7c-9252-2431f128954b)
+![image](https://github.com/Ellozac/steamHoursQuery/assets/104737752/84ae19db-8039-4c7c-9252-2431f128954b)  
+  
 note: steam userid Differs from username
 Run ```npm run query <steamuserid> <game>```
 
