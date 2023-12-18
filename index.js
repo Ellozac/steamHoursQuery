@@ -37,7 +37,7 @@ async function run() {
     await page.type('div.newlogindialog_TextField_2KXGK:nth-child(1) > input:nth-child(3)', USERNAME);
     await page.type('div.newlogindialog_TextField_2KXGK:nth-child(2) > input:nth-child(3)', PASSWORD);
     await page.keyboard.press('Enter');
-    await page.waitForTimeout(2250);
+    await page.waitForTimeout(5000);
     await page.goto(`https://steamcommunity.com/id/${userIdForSearch}/games/?tab=all`)
     await page.waitForSelector("#responsive_page_template_content > div:nth-child(4) > div > div.gameslistapp_DisplayControls_2_BHL > div > input");
     await page.type('#responsive_page_template_content > div:nth-child(4) > div > div.gameslistapp_DisplayControls_2_BHL > div > input', gameForHours)
