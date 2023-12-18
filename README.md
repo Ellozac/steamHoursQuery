@@ -18,5 +18,5 @@ C:\Program Files\Google\Chrome\Application\chrome.exe
 /usr/bin/google-chrome-stable
 
 ## Make a Query
-Changing the below username arguement to the users username which you want to see their hours in the game arguement.  
-Run ```npm run query <username> <game>```
+Changing the below username arguement to the users id which you want to see their hours in the game arguement.  
+Run ```npm run query <steamuserid> <game>```
